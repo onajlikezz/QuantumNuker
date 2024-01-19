@@ -2,7 +2,7 @@
 <p align="center">A completely free discord bot for nuking servers, the bot is coded based on LithiumNuker!</p>
 <p align="center">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCPGq5aI894K7cr0xvu0vJZQ?logo=YouTube&logoColor=red&style=flat-square">
-  <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/onajlikezz/QuantumNuker/total?logo=github">total">
+  <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/onajlikezz/QuantumNuker/total?logo=github">
   <img alt="Discord" src="https://img.shields.io/discord/1196052745979957278?logo=discord&style=flat-square">
 </p>
 
