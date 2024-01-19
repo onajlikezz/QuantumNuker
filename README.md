@@ -11,7 +11,7 @@
 - **Mass Ban**
 - **Webhook Spammer**
 - **Mass Create Channels**
-- - **Text Channels**
+  - **Text Channels**
   - **Voice Channels**
 - **Mass Delete Channels**
   - **Text Channels**
